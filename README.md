@@ -1,4 +1,4 @@
-## Hi there 👋
+![CV-Angi](https://github.com/acasella03/acasella03/blob/main/CV-Angi.jpg)
 
 <!--
 **acasella03/acasella03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
